@@ -12,3 +12,10 @@ created a function myCircle and added R,G,B
 created a function mySquare and added R,G,B
 added fill (R,G,B) to all of the functions 
 lines 8, 9, and 10 called my functions in draw
+https://editor.p5js.org/carolinecontento/sketches/2GgSDT1tB
+created a function myMouse
+created an if mouseIsPressed === true statement
+created a else create this other shape
+the two sprites created change color form pink to a yellow/gold
+the background is pink
+called function in draw on line 8
