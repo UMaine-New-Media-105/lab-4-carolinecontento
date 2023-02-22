@@ -6,3 +6,9 @@ created a function myCircle
 created a function mySquare
 lines 14, 19, and 24 all have fill(myColor) to get the color called in draw
 lines 8,9,10 all call the functions to the draw
+https://editor.p5js.org/carolinecontento/sketches/WzYvYo4cn
+created a function myTri and added R,G,B
+created a function myCircle and added R,G,B
+created a function mySquare and added R,G,B
+added fill (R,G,B) to all of the functions 
+lines 8, 9, and 10 called my functions in draw
